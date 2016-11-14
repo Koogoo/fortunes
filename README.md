@@ -1,0 +1,2 @@
+# fortunes
+fortune词库
