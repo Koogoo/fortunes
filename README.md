@@ -62,8 +62,8 @@ $ fortune 25% chinese 25% fortunes 25% tang300  25% song100
 ## 可以根据自己的喜好,选择要显示的词库
 根据自己的喜好,将命令和词库写到 `~/.bashrc` 或 `~/.zshrc` 文件中
 ```bash
-alias fortune-ch='fortune 55% tang300 25% song100 5% ascii-art chinese'
-#自定义tang300,song100,ascii-art词库显示机率,省下的显示机率由chinese词库补齐
+alias fortune-ch='fortune 55% tang300 25% song100 8% duang 8% ascii-art chinese'
+#自定义tang300,song100,duang,ascii-art词库显示机率,省下的显示机率由chinese词库补齐
 ```
 
 # 添加自己的词库数据
